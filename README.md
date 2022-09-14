@@ -17,7 +17,14 @@ Assign the value in temporary variable to the first variable
 Print both the values it would be interchanged
 ### Step 6: 
 End the program
-## PROGRAM:
+## PROGRAM
+```python 
+def fun(a):
+    c=a
+    return c
+```
+## OUTPUT
+![output][/outputswap.png]         
 
 
 
